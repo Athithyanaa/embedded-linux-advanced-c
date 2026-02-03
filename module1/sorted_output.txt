@@ -1,0 +1,4 @@
+total 0
+-rw-r--r-- 1 Athiaa Athiaa 0 Jan 30 05:09 c.txt
+-rw-r--r-- 1 Athiaa Athiaa 0 Jan 30 05:09 b.txt
+-rw-r--r-- 1 Athiaa Athiaa 0 Jan 30 05:09 a.txt
