@@ -1,0 +1,5 @@
+VNC Viewer : Allows host machine to remotely control other remote machine using VNC protocol
+
+1. VNC Server (remote machine)
+2. VNC Viewer (host machine)
+3. IP of remote machine + password

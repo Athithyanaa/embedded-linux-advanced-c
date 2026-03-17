@@ -1,0 +1,5 @@
+RDP : Remote Desktop Protocol
+
+1. enable RD
+2. run mstsc
+3. Enter: IP + usrname + password

@@ -1,0 +1,3 @@
+AnyDesk: Simple, Fast remote desktop s/w using DeskRT codec for low latency.
+
+It uses: ID (unique AnyDesk ID)

@@ -1,0 +1,3 @@
+It uses : 
+1. Teamviewer ID
+2. Temp. password

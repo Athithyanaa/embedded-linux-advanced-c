@@ -1,0 +1,15 @@
+Duplicate Ip means 2 device are using same IP, this causes IP Conflict.
+Problems: 
+1. IP conflict(ARP table keeps changing)
+2. Packet Loss
+3. Unstable ping
+
+Detect Duplicate IP:
+1. Using "Ping"
+2. Using "arp"
+3. Using "arping" - best Linux tool 
+
+Why ?
+1. Manual IP configuration mistake
+2. N/w Cloning
+3. VM duplication
