@@ -1,0 +1,11 @@
+1. Child Process - fork(): used to create a new Child Process. Parent and child run independently, where child get a copy of the parent process.
+
+2. Signals : they are software interrupts send to process to notify events.
+
+3. Kernel crashes: happens becoz of driver bugs, null pointer deference, invalid memory access.
+
+4. Time Complexity: way to describe how much time an algo takes to execute based on the size of inputs.
+
+5. Locking mechanism: a technique used to avoid race condition in multi-threading.
+ 5.1. mutex: helps single thread to enter into critical section at a time
+ 5.2. spin lock: a thread run continuously checking lock, without sleep
